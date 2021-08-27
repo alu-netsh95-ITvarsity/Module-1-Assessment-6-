@@ -1,0 +1,58 @@
+.gallery img{
+    width: 50%;
+    border-image: stretch;
+    
+}
+h1{font-size: xx-large;
+font-style: italic;
+text-decoration: wavy;
+text-align: center;}
+
+h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-style: oblique;
+    text-align: center;
+}
+h2{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+h4{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+p{font-style: italic;}
+#menu{
+    width:100%;
+    height:40px;
+    background-color: black;
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font: larger;
+    font-size: 18px;
+    text-decoration:none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+     color: aqua;
+}
+
+.button{
+    display: ruby-base-container;
+    width: 15%;
+    text-decoration: solid;
+    font-style: oblique;
+    text-align: center;
+    color: black;
+    font-size:X-large;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    padding: 8px 0;
+    background-color:lightcoral;
+    background-size: auto;
+    padding: 8px 0;
+}
+
